@@ -1,6 +1,6 @@
 // API URLs
 export const API_URL = 'https://api.metastem.su';
-export const PROXY_URL = 'https://proxy.muetab.com';
+export const PROXY_URL = 'https://proxy.metastem.su';
 export const MARKETPLACE_URL = 'https://marketplace.metastem.su';
 export const SPONSORS_URL = 'https://sponsors.muetab.com';
 export const GITHUB_URL = 'https://api.github.com';
